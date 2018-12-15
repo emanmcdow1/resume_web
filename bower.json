@@ -1,0 +1,19 @@
+{
+  "name": "emcdowweb",
+  "description": "E. McDow Web Development",
+  "main": "js/main.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zenscroll": "^4.0.0",
+    "hover": "^2.1.1"
+  }
+}
